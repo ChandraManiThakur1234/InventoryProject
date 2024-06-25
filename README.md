@@ -1,7 +1,9 @@
 # InventoryProject
 
 User can register from the register page, he can select the option if he is admin or not. The admin password is hardcoded in frontend.<br>
-The user if registered succcessfully, then only he can login else need to create account.
+The user if registered succcessfully, then only he can login else need to create account.<br>
+The user can can add inventory details and see all the inventories added to the codebase. <br>
+
 
 ## Backend <br>
 Technologies used : Spring Tool Suite, MYSQLWorkbench, Java <br>
